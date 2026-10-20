@@ -26,6 +26,6 @@ More are in the works.
 
 ## License
 
-Each project has its own license — check the repository.
+Each project has its own license. Check the repository.
 Mojang, Minecraft, and their logos are trademarks of Mojang AB / Microsoft.
 Mohenjo is not affiliated with, endorsed by, or associated with Mojang or Microsoft.
